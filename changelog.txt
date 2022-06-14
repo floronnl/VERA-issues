@@ -1,0 +1,65 @@
+1.2.1:
+- Bij paddenstoelen meetnetten moet nu verplicht een habitat en een aantal in de NMV schaal worden opgegeven
+- De app geeft nu betere feedback tijdens het versturen van een waarnemingenlijst
+- Het is nu moeilijker de app per ongeluk te sluiten
+- Bug fixes
+
+
+1.2.0:
+- Foto's gemaakt in de app worden nu opgeslagen in de DCIM map op je apparaat
+- Er is nu een OpenTopo kaartlaag beschikbaar
+- Simpel zoeken: er is nu een optie om te zoeken op een willekeurig deel van een soortnaam
+- Diverse bug fixes
+
+
+1.1.0:
+- Ondersteuning toegevoegd voor Nectarindex
+- Kaartscherm toegevoegd
+- Look hoofdscherm verbeterd
+- Betere foutmeldingen
+
+
+1.0.3:
+- Probleem met GPS opgelost.
+- Zoekalgoritme verbeteringen.
+
+
+1.0.2:
+Nieuwe features:
+- Scherm om een waarneming te bekijken
+- Donkere modus
+- Zoeken door de dropdown menuutjes van habitat, substraat en organisme
+- Afstand tot gereserveerd plot
+- Gereserveerde plots zijn offline beschikbaar (nadat ze online zijn opgehaald)
+
+Fixes & verbeteringen:
+- Probleem opgelost met niet werkende GPS
+- Zoeken naar NL namen verbeterd: "gr br" -> Grote brandnetel
+- Het dupliceren van een waarneming opent het aanpasscherm
+- Formulieren verlopen minder snel
+- En nog veel meer!
+
+
+1.0.1:
+- Geluid bij opslaan waarneming (aanzetten via menu)
+- De app kan alleen nog geïnstalleerd worden op apparaten met GPS en een camera
+- QR-scan scherm verbeterd
+- Bij het wijzigen van een waarneming begint de locatiekiezer nu bij de locatie van de waarneming
+- Het laadscherm geeft nu betere meldingen als er iets fout gaat
+- Apparaten met Android 6 en 7.0 kunnen nu verbinding maken met de Verspreidingsatlas
+- Formulieren voor losse waarnemingen zijn langer geldig
+
+
+1.0.0:
+VERA is de nieuwe invoer-app voor de NDFF Verspreidingsatlas!
+
+De belangrijkste wijzigingen:
+- App start sneller op
+- Eenvoudiger instellingenmenu
+- Aanmelden bij NDFF Verspreidingsatlas via een QR-code
+- Gereserveerde hokken uit de Verspreidingsatlas omzetten in waarnemingenformulier
+- Plot weergeven in kaartscherm
+- Verbeterde aanduiding bijzondere soorten
+- Invoervelden vastzetten
+- Lang drukken om formulieren en waarnemingen te wijzigen
+- Scherm dimmen bij kantelen verbeterd
