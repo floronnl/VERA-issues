@@ -1,6 +1,6 @@
 1.3.0:
 - Het is nu mogelijk overzichtsfoto's toe te voegen bij een formulier
-- Nieuwe protocollen: Stoepplantjes & Eindejaars Plantenjacht
+- Nieuw protocol: Eindejaars Plantenjacht
 - Optie toegevoegd om van GPS modus te wisselen
 - Het is nu in bepaalde protocollen mogelijk foto's te identificeren met Pl@ntNet
 - De kaart kan nu plots tonen die uit meerdere delen bestaan
