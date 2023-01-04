@@ -1,3 +1,6 @@
+1.4.1 (2023-01-04):
+- Stabiliteitsverbeteringen en bugfixes
+
 1.4.0 (2022-12-14):
 - Foto's worden nu in volledige kwaliteit opgeslagen in je galerij
 - Je kunt de waarnemingen in je huidige lijst op de kaart bekijken (klik op het kaartsymbooltje rechtsboven in je waarnemingenlijst)
