@@ -1,5 +1,6 @@
 1.4.1 (2023-01-04):
 - Stabiliteitsverbeteringen en bugfixes
+- Probleem opgelost waarbij een herinstallatie op bepaalde telefoonmodellen kon leiden tot een niet functionerende app
 
 1.4.0 (2022-12-14):
 - Foto's worden nu in volledige kwaliteit opgeslagen in je galerij
