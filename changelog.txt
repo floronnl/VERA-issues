@@ -1,3 +1,25 @@
+1.6.0 (2023-12-04):
+- Nieuw: knop 'Waarneming ongedaan maken'
+- Nieuw: Zoeken in medewaarnemers
+- Nieuw: Invoerscherm compacter gemaakt
+- Nieuw: Radar onthoudt stippen en soortgroep wanneer je van scherm wisselt
+- Bug fix: Vinkje bij een soort die eerder verwijderd was uit de lijst
+- Bug fix: Eerder verwijderde soort kan niet meer aan de lijst worden toegevoegd
+- Bug fix: Routekaart laadt sneller als er veel waarnemingen zijn
+- Bug fix: Foto's opslaan gaat sneller
+- Stabiliteitsverbeteringen
+- Klaar voor Android 14
+
+1.5.0 (2023-03-24):
+- Betere ondersteuning voor Android 13
+- Looks geüpdate naar Material Design 3
+- Nieuw: Medewaarnemers toevoegen
+- Nieuw: Waarnemingenradar. Jouw waarnemingen van bijzondere soorten, alle exoten uit de Verspreidingsatlas, en meer (vereist internet en soms speciale toegangsrechten)
+- Nieuw: Soortenencyclopedie met beschrijvingen en foto's (vereist internet)
+- Meer kaartlagen
+- Looproutes worden smaller getoond
+- Waarnemingen op de kaart hebben label met verkorte soortnaam
+
 1.4.1 (2023-01-04):
 - Stabiliteitsverbeteringen en bugfixes
 - Probleem opgelost waarbij een herinstallatie op bepaalde telefoonmodellen kon leiden tot een niet functionerende app
