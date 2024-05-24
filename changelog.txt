@@ -1,3 +1,10 @@
+1.7.0 (2024-05-24):
+- Mogelijkheid toegevoegd om vegetatieopnames te doen met Tansley, Tansley decimaal en Braun-Blanquet (B,D,S) schalen
+- Het is nu mogelijk meerdere foto's uit de galerij tegelijk te selecteren en aan een waarneming toe te voegen
+- De minimale Android versie is nu 7.0 (2016) (was 5.0 (2014))
+- Beveiliging verbeterd
+- Bug fixes
+
 1.6.0 (2023-12-04):
 - Nieuw: knop 'Waarneming ongedaan maken'
 - Nieuw: Zoeken in medewaarnemers
