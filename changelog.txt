@@ -1,3 +1,12 @@
+1.7.4 (2024-08-29):
+- Probleem opgelost waarbij de QR scanner niet werkte op Android telefoons zonder Google Play Services
+
+1.7.3 (2024-08-21):
+- Probleem opgelost waardoor oude Android versies geen formulieren konden uploaden
+
+1.7.2 (2024-08-13):
+- Bug opgelost met de QR-scanner bij oudere Android versies
+
 1.7.1 (2024-06-14):
 - Mogelijkheid toegevoegd om kranswieren op te nemen bij vegetatieopnames
 
