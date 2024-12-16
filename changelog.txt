@@ -1,3 +1,7 @@
+1.7.5 (2024-12-16):
+- Probleem opgelost waarbij de uitklaplijst voor soorten soms de verkeerde grootte had
+- Probleem opgelost waarbij na het toevoegen van een foto de soorten uitklaplijst opnieuw uitklapt
+
 1.7.4 (2024-08-29):
 - Probleem opgelost waarbij de QR scanner niet werkte op Android telefoons zonder Google Play Services
 
