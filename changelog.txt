@@ -1,3 +1,6 @@
+1.7.6:
+- Om te voorkomen dat de app traag wordt, worden reeds verzonden formulieren formulieren uit de app verwijderd als ze meer dan 1 jaar oud zijn, er meer dan 100 verzonden formulieren zijn, of er meer dan 10.000 verzonden waarnemingen zijn. Deze blijven natuurlijk wel in de Verspreidingsatlas zichtbaar.
+
 1.7.5 (2024-12-16):
 - Probleem opgelost waarbij de uitklaplijst voor soorten soms de verkeerde grootte had
 - Probleem opgelost waarbij na het toevoegen van een foto de soorten uitklaplijst opnieuw uitklapt
